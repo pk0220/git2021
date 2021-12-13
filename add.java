@@ -1,4 +1,4 @@
-ass add
+class add
 {
 	public static void main(String[] args)
 	{
